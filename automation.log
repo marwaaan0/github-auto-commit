@@ -1,0 +1,6 @@
+2025-05-27 04:48:44,211 - INFO - Running immediate commit
+2025-05-27 04:48:44,211 - INFO - Starting GitHub Auto Commit
+2025-05-27 04:48:44,212 - INFO - Initializing new repository at .
+2025-05-27 04:48:44,337 - INFO - Updated daily content in daily_log.md
+2025-05-27 04:48:44,342 - ERROR - Failed to make commit: Ref 'HEAD' did not resolve to an object
+2025-05-27 04:48:44,342 - ERROR - Daily commit failed
